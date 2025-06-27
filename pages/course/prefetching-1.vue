@@ -7,6 +7,8 @@
     </div>
   </q-page>
 </template>
-<script setup lang="ts">
+<script lang="ts">
   console.log('prefetching-1');
+  export default {};
 </script>
+<script setup lang="ts"></script>
