@@ -9,5 +9,6 @@
 </template>
 <script lang="ts">
   console.log('prefetching-3');
+  console.log('test');
 </script>
 <script setup lang="ts"></script>
